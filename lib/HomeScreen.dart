@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return AnimatedContainer(
       transform: Matrix4.translationValues(xOffset, yOffset, 0)
         ..scale(scaleFactor),
-      color: Colors.grey[600],
+      color: Colors.teal,
       duration: Duration(milliseconds: 250),
       child: ListView(
         children: [
