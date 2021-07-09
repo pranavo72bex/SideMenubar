@@ -1,16 +1,2 @@
 # sidemenubar
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021-07-09-13-04-22](https://user-images.githubusercontent.com/71395812/125040271-2b002980-e0b7-11eb-9d73-f59516465dc8.png)  ![Screenshot_2021-07-09-13-09-50](https://user-images.githubusercontent.com/71395812/125040278-2c315680-e0b7-11eb-9670-877acb1aaa28.png)
